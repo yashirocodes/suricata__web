@@ -1,0 +1,44 @@
+/*FONTS*/
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/*BODY*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Outfit', sans-serif;
+}
+.bg-pink{
+    background-color: #e83e8c;
+}
+.h1-title {
+    margin-top: 5rem;
+    padding: 6rem;
+}
+.iconcolor{
+    color: #fff;
+    font-size: 3.2rem;
+}
+.bg-cash {
+    background-color: #17A2B8;
+}
+i{
+    padding-left: 1.5rem;
+}
+footer{
+    background-color: #e83e8c;
+}
+.img-footer {
+    height: 15rem;
+}
+.card{
+    max-width: 300px;
+}
+
+.navbar {
+    height: 10vh;
+}
+.navbar-brand {
+    height: 7vh;
+}
